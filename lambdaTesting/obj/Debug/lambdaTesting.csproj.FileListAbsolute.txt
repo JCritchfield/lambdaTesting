@@ -1,0 +1,6 @@
+C:\Users\jcritchfield\Desktop\Chromebook Manager\lambdaTesting\lambdaTesting\bin\Debug\lambdaTesting.exe.config
+C:\Users\jcritchfield\Desktop\Chromebook Manager\lambdaTesting\lambdaTesting\bin\Debug\lambdaTesting.exe
+C:\Users\jcritchfield\Desktop\Chromebook Manager\lambdaTesting\lambdaTesting\bin\Debug\lambdaTesting.pdb
+C:\Users\jcritchfield\Desktop\Chromebook Manager\lambdaTesting\lambdaTesting\obj\Debug\lambdaTesting.csprojResolveAssemblyReference.cache
+C:\Users\jcritchfield\Desktop\Chromebook Manager\lambdaTesting\lambdaTesting\obj\Debug\lambdaTesting.exe
+C:\Users\jcritchfield\Desktop\Chromebook Manager\lambdaTesting\lambdaTesting\obj\Debug\lambdaTesting.pdb
